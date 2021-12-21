@@ -1,7 +1,7 @@
 # Operating Systems 1: Smallsh
 Portfolio assignment from my Operating Systems 1 class. Submitted in February 2021. 
 
-## Assignment Instructions Overview:
+## Assignment Instructions Basic Summary:
 In this assignment I was tasked to write smallsh, my own shell in C. smallsh should implement a subset of features of well-known shells, such as bash. The program should
 
 1. Provide a prompt for running commands
